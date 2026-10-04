@@ -1,5 +1,5 @@
 # CYD-Midi-Master-Keyboard
-display CYD mini pianoforte
+Display CYD mini pianoforte
 Sviluppato in collaborazione con l'IA di Google 
 
 Con un CYD 2432S028 si può fare una pianola midi 4 ottave con pennetta suono pianoforte
